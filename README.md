@@ -1,4 +1,4 @@
-## Krister Axel | Web Architect & Support Technician
+## Krister Axel | Support Engineer
 
 <!--
 **kaxel/kaxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
