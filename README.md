@@ -1,29 +1,41 @@
-## Krister Axel | Support Engineer
+# Krister Axel — Support Engineer
 
-<!--
-**kaxel/kaxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I'm the person who takes the ticket nobody else can close, finds the actual cause, and then ships the fix.
 
-## Twenty years as a lead and founding engineer, now working escalations — so I don't hand off the hard ticket, I find the defect and fix it.
+Two decades as a lead and founding engineer — shipping production web systems, migrating databases, owning architecture end to end. Right now I'm on the support front line by choice, running Tier 1/2 escalations, because that's where you find out what software actually does to people. The combination is the point: I can read the stack trace, open the database, and still explain the outcome to a frustrated customer in plain language.
 
-### Bio
+**Based in Ashland, OR. Open to support engineering, escalation engineering, and solutions/technical-account roles.**
+📧 your@email · 🌐 [axel.me](http://axel.me) · 📄 [Resume](#)
 
-Bringing over two decades of multifaceted technical expertise, Krister Axel bridges complex systems engineering with exceptionally clear, human-centered communication. A seasoned technical specialist and developer, his broad knowledge spectrum spans customer support, database migrations, custom web architecture, and production-scale troubleshooting across enterprise environments.
+---
 
-### Skill Sets
+## What I bring that a career support tech usually doesn't
 
-Ruby, Python, Javascript
-SQL (Postgres, MS SQL, Oracle, MySQL)
-Linux, Mac, Windows
-M365 and Microsoft Entra
-AWS, Azure, GCP
+- **Root-cause instead of workaround.** Founding-engineer habits mean I don't stop at "restart it" — I find the defect, write it up so engineering can act on it, and often patch it myself.
+- **I read and write code.** Ruby, Python, JavaScript. I automate the repetitive parts of the queue rather than grinding through them.
+- **Database fluency.** SQL across Postgres, MS SQL, Oracle, and MySQL — I answer data questions directly instead of escalating them.
+- **I own systems, not tickets.** Architecture, deploys, and production troubleshooting across Linux, macOS, and Windows, plus M365/Entra, AWS, Azure, and GCP.
+- **Communication is the deliverable.** Twenty years of writing — documentation, runbooks, and published prose — means my ticket notes and customer replies are the clearest thing in the thread.
 
-### Artistic
-<aside>
-  <p>Listed here mainly for cross-referential purposes. I used to keep these skills off of the 'technical' resumé, now I think it adds a certain dimension to my technical footprint: such that there may be a certain engineering team looking for a developer who also has intimate knowledge of music, or poetry, etc...</p>
-</aside>
+## Skills
 
-Writing, Graphic Design, Songwriting, Lyrics & Poetry, Performance
+**Languages** Ruby · Python · JavaScript
+**Data** SQL — Postgres, MS SQL, Oracle, MySQL · database migrations
+**Platforms** Linux · macOS · Windows · M365 & Microsoft Entra
+**Cloud** AWS · Azure · GCP
+**Support** Tier 1/2 escalation · ticketing & workflow (ServiceNow) · runbook authoring · production incident triage
 
-### Certifications
-LPI - Linux Professional
+**Certifications** LPI — Linux Professional
+
+## Selected work
+
+| Project | What it shows |
+|---|---|
+| [chillonrails](https://github.com/kaxel/chillonrails) | Rails app behind chillfiltr.com — Stripe payments, automated radio-episode publishing. Production system I own end to end. |
+| [sql-snippets](https://github.com/kaxel/sql-snippets) | Working SQL patterns collected from real problems. |
+| [amp-story-lincoln-city](https://github.com/kaxel/amp-story-lincoln-city) | Hand-written AMP Story — spec-reading and front-end precision in a single file. |
+| [rpncal](https://github.com/kaxel/rpncal) | Ruby CLI RPN calculator, with tests. |
+
+## Also a writer and musician
+
+Writing, graphic design, songwriting, poetry, performance. I keep this here on purpose: the same instinct that makes a lyric land makes a support reply land. Clear communication under pressure isn't a soft skill in this job — it's the job.
