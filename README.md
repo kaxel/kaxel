@@ -21,8 +21,4 @@ AWS, Azure, GCP
   <p>Listed here mainly for cross-referential purposes. I used to keep these skills off of the 'technical' resumé, now I think it adds a certain dimension to my technical footprint: such that there may be a certain engineering team looking for a developer who also has intimate knowledge of music, or poetry, etc...</p>
 </aside>
 
-Writing
-Graphic Design
-Songwriting
-Lyrics & Poetry
-Performance
+Writing, Graphic Design, Songwriting, Lyrics & Poetry, Performance
