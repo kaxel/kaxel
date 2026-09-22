@@ -6,7 +6,7 @@
 
 ### Bio
 
-Bringing over two decades of multifaceted technical expertise, Krister Axel bridges complex systems engineering with exceptionally clear, human-centered communication. A seasoned technical specialist and developer, his broad knowledge spectrum spans database migrations, custom web architecture, and production-scale troubleshooting across enterprise environments.
+Bringing over two decades of multifaceted technical expertise, Krister Axel bridges complex systems engineering with exceptionally clear, human-centered communication. A seasoned technical specialist and developer, his broad knowledge spectrum spans customer support, database migrations, custom web architecture, and production-scale troubleshooting across enterprise environments.
 
 ### Skill Sets
 
