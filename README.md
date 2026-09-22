@@ -22,3 +22,6 @@ AWS, Azure, GCP
 </aside>
 
 Writing, Graphic Design, Songwriting, Lyrics & Poetry, Performance
+
+### Certifications
+LPI - Linux Professional
