@@ -1,7 +1,5 @@
 # Krister Axel — Support Engineer
 
-I'm the person who takes the ticket nobody else can close, finds the actual cause, and then ships the fix.
-
 Two decades as a lead and founding engineer — shipping production web systems, migrating databases, owning architecture end to end. Right now I'm on the support front line, running Tier 1/2 escalations and hacking in to the ERP system. I can read the stack trace, open the database, and still explain the outcome to a frustrated customer in plain language.
 
 **Based in Ashland, OR. Open to support engineering, escalation engineering, and solutions/technical-account roles.**
